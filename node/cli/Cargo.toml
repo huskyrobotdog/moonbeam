@@ -11,7 +11,7 @@ structopt = "0.3.8"
 
 # Moonbeam
 cli-opt = { package = "moonbeam-cli-opt", path = "../cli-opt", default-features = false }
-perf-test = { path = "../perf-test" }
+# perf-test = { path = "../perf-test" }
 service = { package = "moonbeam-service", path = "../service", default-features = false }
 
 # Substrate
